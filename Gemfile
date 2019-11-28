@@ -17,6 +17,8 @@ gem 'factory_bot_rails'
 gem 'fast_jsonapi'
 #paginator for ruby webapps
 gem 'kaminari'
+#Ruby toolkit for the GitHub API.
+gem "octokit", "~> 4.0"
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
